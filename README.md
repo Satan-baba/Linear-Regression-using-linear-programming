@@ -1,6 +1,8 @@
 # Linear-Regression-using-linear-programming
 Linear Regression using linear programming
 
+The image file uploaded shows the two equations that are solved using this code. PartA.ipynb formulates the equation (a) as an lp. PartB.ipynb formulates the equation (b) as an lp. Part_A_Dual.ipynb formulates the dual of the LP in Part_A as an LP. Part_B_Dual.ipynb formulates the dual of the LP in Part_B as an LP. 
+
 This problem is based on the linear regression. It fits a linear function to data provided in dataLR.txt. The dataset contains N = 10000 rows and 11 columns(comma separated). The first column in every row i gives the label (yi) and the remaining 10 columns are
 features (xi). 
 
